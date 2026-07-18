@@ -1,0 +1,32 @@
+# Model Evaluation & Refinement Projects
+
+This repository contains hands-on projects focused on evaluating, improving, and optimizing machine learning regression models using Python and Scikit-learn.
+
+## Topics Covered
+
+* Train-Test Split
+* Generalization Error
+* Cross-Validation
+* Polynomial Model Selection
+* Underfitting and Overfitting Analysis
+* Ridge Regression
+* Hyperparameter Tuning
+* Grid Search with `GridSearchCV`
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+
+## Key Learning Outcomes
+
+* Split datasets into training and testing sets for model evaluation.
+* Assessed model performance using generalization error and cross-validation.
+* Selected the optimal polynomial degree by minimizing test error.
+* Applied Ridge Regression to reduce overfitting and handle multicollinearity.
+* Tuned the Ridge Regression hyperparameter (`alpha`) for improved performance.
+* Optimized models using `GridSearchCV` to identify the best hyperparameters through cross-validation.
