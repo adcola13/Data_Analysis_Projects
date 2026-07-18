@@ -1,0 +1,31 @@
+# Data Modeling Projects
+
+This repository contains hands-on projects demonstrating the fundamentals of **Data Modeling and Regression Analysis** using Python and Scikit-learn.
+
+## Topics Covered
+
+* Simple Linear Regression
+* Multiple Linear Regression
+* Regression, Residual, and Distribution Plots
+* Polynomial Regression
+* Feature Engineering and Data Standardization
+* Scikit-learn Pipelines
+* Model Evaluation using Mean Squared Error (MSE) and R² Score
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+## Key Learning Outcomes
+
+* Built and evaluated regression models for predictive analysis.
+* Applied feature engineering and data preprocessing techniques.
+* Automated machine learning workflows using pipelines.
+* Assessed model performance using visualization and evaluation metrics.
+* Compared models to identify the best fit while recognizing underfitting and overfitting.
