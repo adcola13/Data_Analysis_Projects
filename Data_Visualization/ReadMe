@@ -1,0 +1,161 @@
+# Data Visualization with Python
+
+This repository contains hands-on projects completed as part of the **IBM Data Analysis with Python** course on Coursera.
+
+The projects demonstrate how Python can be used to transform datasets into meaningful visual insights using industry-standard data visualization libraries.
+
+---
+
+## 📌 Project Overview
+
+This repository contains two visualization projects:
+
+### Project 1: Basic Data Visualization
+
+Implemented fundamental chart types to explore and communicate data insights.
+
+### Key Concepts
+
+- Area Charts
+- Histograms
+- Bar Charts
+- Data storytelling using visualizations
+- Chart customization
+  - Titles
+  - Labels
+  - Legends
+  - Colors
+  - Figure size
+  - Axis formatting
+  - Annotations
+
+### Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Comparing trends across multiple categories
+- Visualizing distributions
+- Presenting categorical comparisons
+- Creating publication-ready charts using Matplotlib
+
+---
+
+## 📌 Project 2: Advanced Data Visualization
+
+Built more advanced visualizations to analyze relationships, distributions, and proportions within the dataset.
+
+### Key Concepts
+
+### 🥧 Pie Charts
+- Visualized proportional data
+- Compared immigration by continent
+- Customized colors and labels
+
+### 📦 Box Plots
+- Analyzed data distribution
+- Identified:
+  - Median
+  - Quartiles
+  - Outliers
+  - Spread of data
+
+### 📈 Scatter Plots
+- Explored relationships between variables
+- Observed trends and correlations
+
+### 🫧 Bubble Charts
+- Extended scatter plots by representing magnitude through bubble size
+- Added a third dimension for richer analysis
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## 📊 Dataset
+
+The projects use the **Canadian Immigration Dataset** provided within the IBM Data Analysis with Python course.
+
+---
+
+## 🎯 Learning Outcomes
+
+Through these projects, I learned how to:
+
+- Import and prepare datasets using Pandas
+- Perform exploratory data analysis
+- Select the appropriate visualization for different business scenarios
+- Customize visualizations for clarity and storytelling
+- Interpret trends, distributions, relationships, and proportions
+- Communicate analytical insights effectively through charts
+
+---
+
+## 📚 Visualization Techniques Covered
+
+✔ Area Charts
+
+✔ Histograms
+
+✔ Bar Charts
+
+✔ Pie Charts
+
+✔ Box Plots
+
+✔ Scatter Plots
+
+✔ Bubble Charts
+
+---
+
+## 🚀 Business Value
+
+Effective visualizations help stakeholders:
+
+- Identify trends quickly
+- Detect outliers
+- Compare categories
+- Understand distributions
+- Discover relationships between variables
+- Support data-driven decision making
+
+---
+
+## 📁 Repository Structure
+
+```
+Data_Visualization/
+│
+├── Project1/
+│   ├── Notebook.ipynb
+│   └── Images/
+│
+├── Project2/
+│   ├── Notebook.ipynb
+│   └── Images/
+│
+└── README.md
+```
+
+---
+
+## 👩‍💻 Author
+
+**Adrina Colaco**
+
+Business Analyst | Data Analytics Enthusiast | Python | SQL | Power BI | IBM Data Analyst Professional Certificate
+
+GitHub: https://github.com/adcola13
+
+LinkedIn: https://www.linkedin.com/in/adrina-colaco
+
+---
+
+⭐ If you found this repository useful, feel free to star it!
