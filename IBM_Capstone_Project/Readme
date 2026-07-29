@@ -1,0 +1,221 @@
+# IBM Data Analyst Capstone Project – Python Labs
+
+## Overview
+
+This repository contains the Python labs completed as part of the **IBM Data Analyst Capstone Project** on Coursera.
+
+The labs simulate a real-world data analytics workflow—from collecting raw data to cleaning, analyzing, visualizing, and presenting business insights. Throughout the course, I applied industry-standard Python libraries and data analytics techniques to solve practical business problems.
+
+---
+
+## Course Learning Path
+
+### Module 1 – Data Collection
+**Topics Covered**
+- HTTP Requests
+- REST APIs
+- JSON Data
+- Web Scraping using BeautifulSoup
+- HTML Table Extraction
+- Exporting data to CSV
+
+**Python Skills**
+- requests
+- BeautifulSoup
+- pandas
+- JSON parsing
+
+---
+
+### Module 2 – Data Wrangling
+**Topics Covered**
+- Finding duplicate records
+- Removing duplicates
+- Handling missing values
+- Data imputation
+- Data normalization
+- Data cleaning
+
+**Python Skills**
+- pandas
+- NumPy
+- Data preprocessing
+- Feature engineering
+
+---
+
+### Module 3 – Exploratory Data Analysis (EDA)
+
+**Topics Covered**
+- Statistical summaries
+- Distribution analysis
+- Histograms
+- Correlation analysis
+- Outlier detection
+- Data exploration
+
+**Python Skills**
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+### Module 4 – Data Visualization
+
+Implemented multiple visualization techniques including:
+
+- Line Charts
+- Bar Charts
+- Pie Charts
+- Scatter Plots
+- Bubble Charts
+- Histograms
+- Box Plots
+- Stacked Charts
+
+Advanced Visualizations
+
+- Interactive Maps using Folium
+- Choropleth Maps
+- Geographic Data Visualization
+
+Libraries Used
+
+- Matplotlib
+- Seaborn
+- Plotly
+- Folium
+
+---
+
+### Module 5 – Dashboard Development
+
+Created interactive dashboards using:
+
+- IBM Cognos Analytics
+- Google Looker Studio
+
+Dashboard Components included:
+
+- Current Technology Usage
+- Future Technology Trends
+- Demographics
+- Interactive Filters
+- KPI Visualizations
+
+---
+
+### Module 6 – Final Project
+
+The capstone project combines all previous modules into a complete analytics workflow.
+
+Deliverables include:
+
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Interactive Dashboard
+- Business Insights Presentation
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Folium
+- Requests
+- BeautifulSoup
+- JSON
+- IBM Cognos Analytics
+- Google Looker Studio
+- Jupyter Notebook
+
+---
+
+## Key Skills Demonstrated
+
+✔ Data Collection from APIs
+
+✔ Web Scraping
+
+✔ Data Cleaning
+
+✔ Data Wrangling
+
+✔ Missing Value Treatment
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Statistical Analysis
+
+✔ Data Visualization
+
+✔ Geospatial Visualization
+
+✔ Dashboard Development
+
+✔ Business Storytelling with Data
+
+✔ Data Presentation
+
+---
+
+## Repository Structure
+
+```
+IBM_Data_Analyst_Capstone/
+│
+├── Module_1_Data_Collection/
+├── Module_2_Data_Wrangling/
+├── Module_3_EDA/
+├── Module_4_Data_Visualization/
+├── Module_5_Dashboard/
+├── Module_6_Final_Project/
+│
+├── images/
+├── datasets/
+└── README.md
+```
+
+---
+
+## Learning Outcomes
+
+Through these labs I gained practical experience in:
+
+- Building end-to-end data analytics workflows
+- Working with real-world datasets
+- Cleaning messy data
+- Creating meaningful visualizations
+- Extracting insights using exploratory analysis
+- Developing interactive dashboards
+- Communicating findings through effective data storytelling
+
+---
+
+## Course
+
+**IBM Data Analyst Professional Certificate**
+
+Course:
+**IBM Data Analyst Capstone Project**
+
+---
+
+## Connect with Me
+
+**Adrina Colaco**
+
+LinkedIn:
+https://www.linkedin.com/in/adrina-colaco
+
+GitHub:
+https://github.com/adcola13
